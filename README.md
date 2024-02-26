@@ -1,4 +1,4 @@
-# Tipsy
+# Clima
 
 Cilma is a beautiful client-server based MVC design pattern weather application use it to always remember to take your Umbrella on those rainy days.
 
