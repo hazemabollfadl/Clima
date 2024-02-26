@@ -1,6 +1,6 @@
 # Tipsy
 
-Cilma is a beautiful client-server based weather application use it to always remember to take your Umbrella on those rainy days.
+Cilma is a beautiful client-server based MVC design pattern weather application use it to always remember to take your Umbrella on those rainy days.
 
 
 ## Functionality
@@ -8,7 +8,7 @@ Cilma is a beautiful client-server based weather application use it to always re
 * Complete weather data based on GPS data from the iPhone as well as by searching for a city manually. 
 * Restful open weather API integeration.
 * Dark mode enabled.
-
+  
 
 ## Screenshots
 
