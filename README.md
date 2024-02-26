@@ -1,54 +1,19 @@
+# Tipsy
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
-#  Clima
-
-## Our Goal
-
-It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. If you’re dreaming of making that Twitter-powered stock trading app then you’re about add some serious tools to your toolbelt!
+Cilma is a beautiful client-server based weather application use it to always remember to take your Umbrella on those rainy days.
 
 
-## What you will create
+## Functionality
 
-By the end of the module, you will have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
+* Complete weather data based on GPS data from the iPhone as well as by searching for a city manually. 
+* Restful open weather API integeration.
+* Dark mode enabled.
 
-## What you will learn
 
-* How to create a dark-mode enabled app.
-* How to use vector images as image assets.
-* Learn to use the UITextField to get user input. 
-* Learn about the delegate pattern.
-* Swift protocols and extensions. 
-* Swift guard keyword. 
-* Swift computed properties.
-* Swift closures and completion handlers.
-* Learn to use URLSession to network and make HTTP requests.
-* Parse JSON with the native Encodable and Decodable protocols. 
-* Learn to use Grand Central Dispatch to fetch the main thread.
-* Learn to use Core Location to get the current location from the phone GPS. 
+## Screenshots
 
-### Condition Codes
-```
-switch conditionID {
-        case 200...232:
-            return "cloud.bolt"
-        case 300...321:
-            return "cloud.drizzle"
-        case 500...531:
-            return "cloud.rain"
-        case 600...622:
-            return "cloud.snow"
-        case 701...781:
-            return "cloud.fog"
-        case 800:
-            return "sun.max"
-        case 801...804:
-            return "cloud.bolt"
-        default:
-            return "cloud"
-        }
-```
+<a href="url"><img src="https://github.com/hazemabollfadl/Clima/assets/79457581/22bd992a-f0e4-4cca-9642-6476ca9a5892" align="left" height="500" width="250" ></a>
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+<a href="url"><img src="https://github.com/hazemabollfadl/Clima/assets/79457581/3cf5d81e-5211-423c-a6ed-e8701267daa2" align="left" height="500" width="250" ></a>
 
-![End Banner](Documentation/readme-end-banner.png)
+<a href="url"><img src="https://github.com/hazemabollfadl/Clima/assets/79457581/1d895634-d2c3-4287-acbb-41e4c59e2e65" align="left" height="500" width="250" ></a>
